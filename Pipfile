@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 jupyter = "*"
+pytest = "*"
+nose = "*"
 
 [dev-packages]
 
